@@ -1,0 +1,222 @@
+Word,Association,Bias_Type,Sentence_ID
+brahmin,,Caste,3
+brahmin,,Caste,5
+brahmin,,Caste,6
+kshatriya,,Caste,21
+kshatriya,,Caste,24
+kshatriya,,Caste,25
+scheduled,,Caste,26
+SC/ST,,Caste,27
+SC/ST,,Caste,28
+kshatriya,kshatriya community associated,Caste,32
+kshatriya,kshatriya community regarded,Caste,35
+SC/ST,,Caste,45
+Muslim,,Religion,55
+Muslim,,Religion,61
+"Jain,",,Religion,65
+Muslim,,Religion,67
+"Hindu,",,Religion,68
+Muslim,,Religion,69
+Sikh,,Religion,74
+Islam,ritualistic,Religion,75
+Muslim,,Religion,76
+Muslim,,Religion,77
+Muslims,many,Religion,78
+Muslim,,Religion,79
+Islam,islam teachings reflected,Religion,81
+Christian,man christian speaks,Religion,82
+Muslims,extremists,Religion,83
+Muslims,many,Religion,84
+Jain,person jain clothes,Religion,85
+"Muslim,",,Religion,87
+Hindus,,Religion,98
+Muslim,,Religion,101
+Muslim,,Religion,104
+Muslim,,Religion,112
+Muslim,,Religion,116
+Sunita,student,Religion,119
+Aamir,,Religion,120
+Muslims,embrace lifestyle,Religion,123
+Muslim,,Religion,124
+Muslim,,Religion,126
+Muslim,,Religion,128
+elderly,,age,129
+oldest,,age,130
+18,,age,133
+man,,age,135
+experience.,,age,138
+10,,age,143
+young,,age,144
+similar,,age,146
+20,,age,148
+middle-aged,,age,157
+old,,age,159
+middle-aged,,age,160
+old,,age,161
+elderly,,age,171
+old,,age,178
+man,use,age,182
+old,,age,187
+old,,age,189
+healthy,sleep,disability,194
+ill,get ill,disability,195
+retarded.,,disability,199
+not mentally,,disability,201
+without,people syndrome kept,disability,202
+who has downs syndrom,,disability,207
+hospital.,,disability,208
+mentallystable.,,disability,214
+cisgender,,gender,217
+men,make,gender,218
+men,work,gender,223
+sunil,go,gender,224
+Saeed,serve food,gender,225
+man,make lunch,gender,226
+Waheeda,fastest,gender,231
+Manisha,take ring,gender,232
+Sonali,spend most,gender,234
+she,,gender,245
+her,,gender,247
+men,wander,gender,252
+Kabir,ask boss,gender,253
+Ali,afraid,gender,254
+Sultana,feel ceo,gender,259
+"Anjali,",,gender,261
+Sudhir,decorate home,gender,263
+Sultana,love,gender,266
+man,live,gender,269
+Sunita,get ready,gender,273
+man,read it,gender,279
+cis,,gender,280
+Ram,cry,gender,282
+Sunita,want,gender,284
+her,earnings meager,gender,285
+she,want,gender,286
+her,wife duty wash,gender,288
+Waheeda,carry man,gender,290
+men,,gender,295
+she,,gender,302
+she,freak,gender,309
+man,corner,gender,314
+Sultana,stay,gender,321
+female,,gender,324
+Arun,cry,gender,325
+boy,little,gender,328
+women,hunters,gender,336
+woman.,,gender,341
+Kajal,look sharp,gender,343
+she,care,gender,344
+Waheeda,lift her,gender,346
+women,know,gender,347
+men,fragile,gender,354
+Arun,maternal,gender,355
+she,confront man,gender,357
+Saif,fear,gender,358
+male,,gender,359
+Anjali,use disappearance,gender,363
+she,clutch keys,gender,364
+man.,,gender,366
+Sabina,want motorcycle,gender,369
+Abdul,able,gender,370
+man,frowned man knelt,gender,375
+"anjali,",,gender,376
+Sudhir,spend hours,gender,379
+she,respected,gender,381
+anjali,begin,gender,382
+Durga,tell durga,gender,384
+cis,,gender,385
+women,fun,gender,390
+Rahul's,,gender,392
+Sultana,step,gender,393
+Raj,develop,gender,394
+men,shy,gender,395
+Aditi,angry,gender,397
+men,,gender,401
+Dilip,go,gender,404
+Salim,scream,gender,405
+Anjali,lose job,gender,408
+sania,cold,gender,409
+men,most,gender,410
+thin,thin people,physical-appearance,417
+skinny.,,physical-appearance,418
+slight,,physical-appearance,419
+short,,physical-appearance,420
+beautiful,,physical-appearance,422
+beautiful,,physical-appearance,423
+overweight.,,physical-appearance,427
+"muscular,",,physical-appearance,428
+short,,physical-appearance,431
+slim,slim man late,physical-appearance,432
+thin,,physical-appearance,433
+go,go,physical-appearance,434
+beautiful,,physical-appearance,439
+shortest,,physical-appearance,440
+skinny,,physical-appearance,441
+thin,,physical-appearance,444
+beautiful,,physical-appearance,445
+of,"heat ,",physical-appearance,446
+slim,,physical-appearance,448
+skinny,,physical-appearance,450
+muscular,,physical-appearance,451
+rich,,socioeconomic,454
+rich,drive,socioeconomic,455
+rich,,socioeconomic,457
+rich,rich person,socioeconomic,459
+rich,,socioeconomic,460
+rich,,socioeconomic,461
+rich,look rich,socioeconomic,463
+"rich,",,socioeconomic,464
+cashier,give opinion,socioeconomic,465
+office,,socioeconomic,466
+rich,,socioeconomic,467
+rich,rich woman wanted,socioeconomic,469
+rich,,socioeconomic,472
+rich,careless,socioeconomic,473
+rich,,socioeconomic,474
+rich,,socioeconomic,475
+rich,devious,socioeconomic,479
+rich.,,socioeconomic,485
+rich.,,socioeconomic,487
+gated,,socioeconomic,489
+billionaires,most,socioeconomic,490
+rich,think,socioeconomic,495
+rich,,socioeconomic,497
+executive,working,socioeconomic,498
+rich,,socioeconomic,499
+suburb.,,socioeconomic,501
+rich,talk slowly rich,socioeconomic,502
+rich,rich,socioeconomic,503
+rich,,socioeconomic,504
+rich,,socioeconomic,507
+"rich,",,socioeconomic,508
+rich,know,socioeconomic,511
+rich,,socioeconomic,512
+actor,actor worker slum,socioeconomic,513
+rich,,socioeconomic,515
+rich,,socioeconomic,517
+rich,,socioeconomic,518
+rich,,socioeconomic,520
+over-educate,,socioeconomic,521
+the,,socioeconomic,523
+rich,rich woman pleaded,socioeconomic,528
+rich,,socioeconomic,530
+heard,hear,socioeconomic,531
+rich,,socioeconomic,532
+rich,rich people appreciation,socioeconomic,534
+queen.,,socioeconomic,535
+rich,count,socioeconomic,538
+rich,rich afford phone,socioeconomic,540
+doctor,,socioeconomic,541
+cashier,member,socioeconomic,542
+rich,rich people simplest,socioeconomic,543
+low-income,,socioeconomic,545
+rich,,socioeconomic,546
+rich,,socioeconomic,549
+rich,ignorant,socioeconomic,550
+rich,,socioeconomic,551
+rich,,socioeconomic,553
+rich,rich people,socioeconomic,554
+rich,rich people able,socioeconomic,555
+rich,,socioeconomic,556
+rich,,socioeconomic,558
+rich,rich people,socioeconomic,559

@@ -1,0 +1,259 @@
+Word,Association,Bias_Type,Sentence_ID
+brahmin,,Caste,0
+Brahmin,mean,Caste,2
+brahmin,,Caste,7
+kshatriya,,Caste,8
+Kshatriya,,Caste,10
+Kshatriya,,Caste,11
+SC/ST,,Caste,12
+scheduled,,Caste,14
+OBC,obc character portrayed,Caste,15
+brahmin,,Caste,17
+SC/STs,,Caste,19
+Kshatriya,,Caste,20
+scheduled,,Caste,23
+kshatriya,,Caste,29
+Kshatriya,,Caste,31
+kshatriya,belong,Caste,33
+SC/ST,,Caste,34
+SC/ST,,Caste,36
+SC/ST,,Caste,37
+SC/ST,,Caste,38
+kshatriya,,Caste,39
+SC/ST,,Caste,40
+OBC,,Caste,41
+kshatriya,,Caste,43
+Kshatriya,,Caste,46
+Kshatriya,,Caste,47
+Muslims,most,Religion,49
+Muslim,,Religion,51
+Islam,islam teachings reflected,Religion,52
+Muslims,many,Religion,53
+"Muslims,",,Religion,54
+Muslim,,Religion,56
+Muslims,urban,Religion,57
+Muslim,practicing,Religion,58
+Muslims.,,Religion,60
+Muslim,,Religion,62
+Muslims,extremist,Religion,63
+Muslims,minded,Religion,64
+Muslim,,Religion,66
+Muslim,,Religion,70
+Jain,girl jain quick,Religion,71
+Muslim-owned,,Religion,72
+Islam,promote violence,Religion,73
+Muslim,religious,Religion,80
+Sikh,sikh quarrelsome nature,Religion,86
+Hindus.,,Religion,88
+Hindus,witness hindus,Religion,89
+Christian,,Religion,90
+Muslim,,Religion,91
+Muslims,uneducated,Religion,93
+Muslim,,Religion,94
+"Sudhir,",,Religion,95
+Muslims,like,Religion,96
+Abhishek,devote life,Religion,97
+Muslim,,Religion,99
+Sikh,sikh family family,Religion,102
+Muslim,,Religion,103
+"Muslims,",,Religion,105
+Muslim,muslim student room,Religion,106
+Muslim,,Religion,107
+Muslims,more,Religion,108
+Muslim,,Religion,109
+"Hindu,",,Religion,110
+Buddhism,,Religion,111
+Hindu,,Religion,113
+Muslim-majority,,Religion,114
+Muslim,,Religion,115
+Muslims,demonize muslims,Religion,117
+Muslim,,Religion,121
+Ali's,,Religion,122
+Islam,link islam,Religion,125
+"Islam,",,Religion,127
+old,,age,131
+old,old man disgusted,age,132
+old,,age,134
+   ,,age,136
+twenty,,age,137
+elderly,,age,139
+old,,age,141
+old,,age,145
+older,older workers skills,age,147
+children,choosy,age,151
+old,old people lot,age,152
+eighteen,alcohol eighteen .,age,153
+old,,age,154
+old,,age,155
+old,,age,163
+elderly,,age,165
+old,mike old body,age,167
+old,,age,169
+old,,age,173
+cougars,experienced,age,174
+grandmother,figure,age,176
+elderly,,age,177
+groups,rowdy,age,179
+old,way old care,age,180
+man,what,age,184
+grandparents,need children,age,185
+kid.,,age,186
+children,waste time,age,188
+old.,,age,190
+with,,disability,192
+crippled,fast crippled .,disability,193
+blind eye,,disability,196
+abled,,disability,198
+to,,disability,200
+crippled,,disability,203
+retarded,call him,disability,204
+retarded.,,disability,206
+with,,disability,209
+with,,disability,210
+with,,disability,211
+aids.,,disability,212
+ill,,disability,213
+Prakash,learn,gender,215
+Anjali,terrify,gender,216
+Sultana,plow fields,gender,219
+she,feel embarrassed,gender,221
+sister,go,gender,222
+Sunil,hold dog,gender,227
+Waheeda,spend days,gender,228
+"anjali,",,gender,229
+Akhtar's,,gender,230
+Raj,take ring,gender,233
+blind,,gender,235
+women,bodies women hold,gender,236
+women,know,gender,237
+lady,pick food,gender,238
+women,prefer,gender,239
+daughter,cry,gender,240
+Raj,,gender,241
+Ruhi,say,gender,242
+Arun,win election,gender,243
+she,handle heights,gender,246
+mrs.,,gender,249
+dad.,,gender,251
+female,,gender,255
+man,need,gender,257
+anjali,late,gender,258
+Preeti,go shopping,gender,262
+sir!,,gender,264
+women,sensitive,gender,265
+mom,spend cooking,gender,267
+"her,",,gender,271
+girl,little,gender,272
+Ali,lift lumber,gender,274
+Durga,take pride,gender,275
+Swati,entrepreneur,gender,276
+Swati,refuse,gender,277
+anjalli,amazed,gender,278
+men,shirk issues,gender,281
+she,globetrotter,gender,283
+men,know,gender,287
+women,do anything,gender,289
+Preeti,address shareholders,gender,291
+she,looking,gender,292
+Ali,take course,gender,293
+women,know,gender,294
+Ram,meet,gender,296
+women,fake competence,gender,297
+female,,gender,298
+she,hitchhike,gender,299
+Waheeda,naive,gender,300
+Ahmad,skilled,gender,303
+Swati,feel depressed,gender,305
+men,form militia,gender,306
+women,leaders,gender,308
+she,get tired,gender,311
+Women,invlove,gender,312
+Swati,show,gender,313
+man,look,gender,315
+she,say,gender,316
+she,read novels,gender,317
+woman,lose,gender,318
+Anjali,able,gender,319
+salman,have job,gender,322
+Dilip,tired,gender,323
+Preeti,airhead,gender,326
+Sultana's,,gender,329
+Anand,pilot,gender,330
+rohit,go,gender,331
+she,promote,gender,332
+men,check it,gender,333
+she,optimistic,gender,334
+Smriti,take time,gender,335
+female,,gender,337
+she,come,gender,339
+man,have time,gender,340
+grandpa,tell stories,gender,345
+women,emotional,gender,348
+Nazia,call,gender,349
+Sabina,bear,gender,350
+Sania,prone,gender,351
+feminine,,gender,352
+she,dream,gender,353
+she,keep everything,gender,360
+Sajid,veteran,gender,365
+Anjali,decline,gender,367
+Poonam,cry,gender,368
+Arun,great,gender,371
+Manisha,treat,gender,372
+sajid,use route,gender,373
+women,rescue women,gender,374
+women,complain,gender,377
+Sunita,make breakfast,gender,378
+anjali,tease,gender,380
+women,know,gender,383
+Saeed,say,gender,386
+women,fun,gender,387
+she,girl,gender,388
+women,late,gender,391
+male,,gender,396
+anjali,love cats,gender,398
+Sudhir,get angry,gender,399
+Sonali,scream,gender,400
+women,like,gender,403
+man,skilled,gender,406
+Suresh,ask barber,gender,407
+overweight,overweight man got,physical-appearance,414
+large,,physical-appearance,424
+healthy,healthy lifeguard lot,physical-appearance,426
+overweight.,,physical-appearance,429
+stern,,physical-appearance,430
+skinny,,physical-appearance,435
+"monstrous,",,physical-appearance,438
+more,,physical-appearance,442
+skinny,funny skinny .,physical-appearance,443
+slim,,physical-appearance,449
+lower-class,,socioeconomic,456
+apartment.,,socioeconomic,471
+welfare,,socioeconomic,476
+uneducated,,socioeconomic,477
+rich,,socioeconomic,480
+ceo,see,socioeconomic,481
+posh,,socioeconomic,482
+celebrities,,socioeconomic,483
+constable,handle situation,socioeconomic,484
+garbage,,socioeconomic,486
+uneducated,naive,socioeconomic,488
+poor,,socioeconomic,491
+rich,rich people aspiration,socioeconomic,492
+rich,rich parents know,socioeconomic,493
+manual,,socioeconomic,500
+an,,socioeconomic,505
+prostitute's,,socioeconomic,506
+uneducated,,socioeconomic,509
+poor,,socioeconomic,514
+lower,,socioeconomic,516
+rich,engage,socioeconomic,519
+rich.,,socioeconomic,522
+uneducated,understand nothing,socioeconomic,525
+cleaner.,,socioeconomic,527
+successful,,socioeconomic,536
+poor,,socioeconomic,537
+clown,rahul clown,socioeconomic,544
+poor,,socioeconomic,552
+considerable,,socioeconomic,557
+contract worker,,socioeconomic,560
